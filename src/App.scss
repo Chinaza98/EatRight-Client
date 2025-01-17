@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #ffffff;
+  margin: 0;
+}
+
+.header {
+  text-align: center;
+  font-size: 32px;
+}
+
+.header__hero {
+  width: 100%;
+}
+
+.recipes {
+  display: flex;
+}
+
+.recipe__card {
+  padding: 0 2rem;
+}
